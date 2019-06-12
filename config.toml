@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Omar Aparicio"
+theme = "m10c"
+authon = "Omar Aparicio"
