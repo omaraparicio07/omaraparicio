@@ -1,7 +1,7 @@
 ---
 title: "Iniciando con groovy"
 date: 2019-06-12T08:50:47-05:00
-draft: true
+draft: false 
 ---
 Trabajando con anterioridad con el lenguaje java empezabá a pensar que entre mas tecnologías de dicho lenguaje aprendiera sería cada vez más complicado recordar la sintaxis, decoradores, estructuras que maneja cada una de ellas. El simple hecho de no olvidar colocar el nivel de acceso a un metodo o atributo se vulve algo tedioso en un proyecto con una cantidad de elementos.
 
