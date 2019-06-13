@@ -1,6 +1,6 @@
 baseURL = "http://omaraparicio07.github.io"
 languageCode = "en-us"
-title = "Blog personal"
+title = "Omar Aparicio"
 theme = "m10c"
 paginate = 20
 [params]
