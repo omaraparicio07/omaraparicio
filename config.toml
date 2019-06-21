@@ -1,8 +1,19 @@
-baseURL = "http://omaraparicio07.github.io"
+baseURL = "https://omaraparicio07.github.io"
 languageCode = "en-us"
 title = "Omar Aparicio"
 theme = "m10c"
 paginate = 20
+
 [params]
 author = "Omar Aparicio"
 description = "Estudiante de Ingeniería en Sistemas Computacionales en la Escuela Superior de Cómputo"
+
+[[params.social]]
+    name = "github"
+    url = "https://github.com/omaraparicio07/" 
+[[params.social]]
+    name = "gitlab"
+    url = "https://gitlab.com/OmarAparicio/" 
+[[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/OmarAparicio/"
